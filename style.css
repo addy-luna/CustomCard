@@ -1,0 +1,20 @@
+section.card {
+  border: 2px black solid;
+  color: white;
+  text-align: center;
+  position: relative;
+  width: 500px;
+  height: 650px;
+  background-color: white; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to right, pink , yellowgreen);
+  box-shadow: 10px 10px 30px pink;
+
+}
+
+
+body {
+  text-align: center;
+  box-shadow: 40px;
+  font-family: 'Roboto Slab', serif;
+  
+}
